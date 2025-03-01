@@ -1,0 +1,6 @@
+const fs = require("fs")
+console.log(fs)
+// let data = fs.readFileSync("./index.html","utf-8")
+// console.log(data)
+// fs.writeFileSync("variable.txt","Please like ")
+// fs.appendFileSync("./variable.txt","Adfar sir is best")
